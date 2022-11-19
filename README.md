@@ -1,2 +1,2 @@
 # website
- https://bennyikos.github.io/website1/
+ https://bennyikos.github.io/website/
